@@ -29,7 +29,7 @@ Submitted for the **CodeCircuit Hackathon**
 ## 👤 Author
 
   
-GitHub: [@arbaz2227](https://github.com/arbaz222)
+GitHub: [@arbaz2227](https://github.com/arbaz2227)
 
 ---
 
