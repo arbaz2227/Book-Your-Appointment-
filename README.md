@@ -17,7 +17,7 @@ A simple, intuitive appointment booking system built with **HTML, CSS, and JavaS
    - Pick a date/time.  
    - Submit! (Data saves automatically). 
 
-Live Demo[]
+Live Demo[https://arbaz2227.github.io/Book-Your-Appointment-/]
 
 
 **Add a screenshot** ![Screenshot 2025-05-18 020305](https://github.com/user-attachments/assets/d325a7b5-bc57-47b2-b4b8-9ff33b6fc066)
