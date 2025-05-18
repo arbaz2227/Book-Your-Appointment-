@@ -62,7 +62,7 @@ JavaScript: Handles form logic, validation, and local storage.
     <!-- Form goes here -->
   </div>
   <script>
-    // JS here
+    /* JS here */
   </script>
 </body>
 </html>
